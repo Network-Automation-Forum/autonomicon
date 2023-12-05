@@ -8,7 +8,7 @@ We can dump bookmarks here for everyone to share/study/etc. Things like other li
 ## Related Work
 
 ### Principles
-* 4 OpenGitOps Principles: https://docs.stackstorm.com/chatops/chatops.htm
+* 4 OpenGitOps Principles: https://github.com/open-gitops/documents/blob/release-v1.0.0/PRINCIPLES.md
 
 ### Best Practices
 * BCOP - Best Current Operational Practices: https://github.com/Open-IX/BCOP (mature collaborative development process with community oversite)
