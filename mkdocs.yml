@@ -1,0 +1,7 @@
+---
+site_name: "Autonomicon Docs"
+nav:
+  - Home: "index.md"
+  - Glossary: "glossary.md"
+  - Links: "links.md"
+theme: "readthedocs"
