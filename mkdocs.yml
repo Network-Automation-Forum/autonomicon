@@ -3,5 +3,6 @@ site_name: "Autonomicon Docs"
 nav:
   - Home: "index.md"
   - Glossary: "glossary.md"
+  - Collaborative Engineering Interpretations: "interpretations.md"
   - Links: "links.md"
 theme: "readthedocs"
