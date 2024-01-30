@@ -5,7 +5,7 @@ When network and software engineers collaborate, they often encounter terms with
 | Term      | Network Engineer Interpretation                                                  | Software Engineer Interpretation                                                                          |
 | --------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | ACL       | Access Control List for network permissions                                      | Authentication and Authorization mechanism in software security. Alternative to role-based access control |
-| Adapter   | Device for connecting different types of networks                                | Software Desing Pattern (Adapter Pattern)                                                                 |
+| Adapter   | Device for connecting different types of networks                                | Software Design Pattern (Adapter Pattern)                                                                 |
 | Buffer    | Physical network interface buffer, causing network packets to drop if it is full | Region of memory used to store temporary data                                                             |
 | Domain    | Network domain or group of devices                                               | Scope or namespace in software development                                                                |
 | Frame     | Layer 2 data, sent over the network                                              | Wireframe; schematic visualization of a user interface design                                             |
