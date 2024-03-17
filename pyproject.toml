@@ -13,6 +13,7 @@ python = "^3.8"
 yamllint = "*"
 Markdown = "*"
 mkdocs = "^1.5.3"
+mkdocs-material = "^9.5.13"
 
 [build-system]
 requires = ["poetry-core"]
