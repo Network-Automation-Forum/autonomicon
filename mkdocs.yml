@@ -1,8 +1,26 @@
 ---
 site_name: "Autonomicon Docs"
+site_description: We're building out a lexicon / glossary for "standard" and/or common network automation terms and concepts...
 nav:
   - Home: "index.md"
   - Glossary: "glossary.md"
   - Collaborative Engineering Interpretations: "interpretations.md"
   - Links: "links.md"
-theme: "readthedocs"
+
+repo_url: https://github.com/Network-Automation-Forum/autonomicon
+repo_name: Network-Automation-Forum/autonomicon
+
+theme:
+  name: material
+  logo: img/NAF.png
+  favicon: img/favicon.png
+  palette:
+    - scheme: slate
+      primary: custom
+      accent: custom
+  features:
+    - navigation.tracking
+extra:
+  homepage: https://networkautomation.forum/
+extra_css:
+  - stylesheets/extra.css

@@ -80,4 +80,4 @@ This is a development server and will reload automatically so you can see your c
 
 ### Screenshots
 
-![Example of the rendered page](./docs/img/autonomicon_rtd.png)
+![Example of the rendered page](./docs/img/autonomicon_material.png)
