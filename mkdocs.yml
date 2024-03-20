@@ -12,7 +12,7 @@ repo_name: Network-Automation-Forum/autonomicon
 
 theme:
   name: material
-  logo: img/NAF+Logos.png
+  logo: img/NAF.png
   favicon: img/favicon.png
   palette:
     - scheme: slate
