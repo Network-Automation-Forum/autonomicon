@@ -10,6 +10,9 @@ nav:
 repo_url: https://github.com/Network-Automation-Forum/autonomicon
 repo_name: Network-Automation-Forum/autonomicon
 
+markdown_extensions:
+  - footnotes
+
 theme:
   name: material
   logo: img/NAF.png
