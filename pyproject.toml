@@ -5,6 +5,7 @@ description = "lexicon / glossary for \"standard\" and/or common network automat
 authors = ["Network Automation Community"]
 license = "CC0 1.0 Universal"
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.8"
