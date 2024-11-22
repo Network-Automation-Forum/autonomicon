@@ -8,7 +8,7 @@ A glossary of terms used by and within NAF. If you'd like to contribute to, or s
 > Software or other tooling designed to complete a task with no human intervention
 
 **Idempotent**
-> A process or task that can be run multiple times and always reach the desired outcome
+> A process or task that can be run multiple times and always reach the same outcome.
 
 **Oh Crap to All Clear**
 > A phrase, coined by Jeremy Schulman, that describes the time and effort required to move from discovery of a problem to either fixing it or conclusively determined that it has cleared on its own.
